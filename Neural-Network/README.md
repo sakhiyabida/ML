@@ -1,0 +1,3 @@
+Neural Network (Jaringan Saraf Tiruan)
+
+Neural network (NN) adalah model matematika yang terinspirasi oleh struktur dan fungsi otak manusia. Ini terdiri dari lapisan-lapisan neuron buatan yang mengambil input, melakukan komputasi, dan menghasilkan output. Neural network digunakan dalam machine learning untuk memahami pola dalam data, seperti pengenalan gambar, teks, dan tugas-tugas kompleks lainnya. Mereka dapat dilatih untuk mempelajari representasi fitur dari data dan mengambil keputusan berdasarkan pola yang ditemukan. Neural network telah menjadi dasar bagi banyak aplikasi cerdas seperti pengenalan wajah, bahasa alami, dan permainan video.
